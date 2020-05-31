@@ -1,2 +1,2 @@
-# semeval-2020
-*Coming Soon
+# Semeval-2020
+*Work in progress
